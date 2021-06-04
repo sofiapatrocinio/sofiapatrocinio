@@ -4,7 +4,6 @@
  
  <h3 align="center">
    👩🏻‍💻  Working as a front-end developer at <a href="https://github.com/loopkeybr"> LoopKey </a><br>
-   📦 Developing a new app <a href="https://unbarqdsw.github.io/2020.1_G12_Stock/#/"> Stock </a>
   <h3>
   
   
