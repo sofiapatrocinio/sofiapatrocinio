@@ -3,7 +3,7 @@
  </p>
  
  <h3 align="center">
-   👩🏻‍💻  Working as a front-end developer at <a href="https://github.com/loopkeybr"> LoopKey </a><br>
+   👩🏻‍💻  Working as a front-end developer at <a href="https://github.com/casai-org"> Casai </a><br>
    📱 Developing a new app <a href="https://github.com/fga-eps-mds/2021.1-Multilind-Docs"> Multilind </a>
   <h3>
   
