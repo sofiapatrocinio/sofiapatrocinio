@@ -1,17 +1,10 @@
-<p align="center">
-<img src="https://i.imgur.com/w85qGyZ.jpg" />
- </p>
- 
  <h3 align="center">
    👩🏻‍💻  Working as a front-end developer at <a href="https://github.com/loopkeybr"> Loopkey </a><br>
   <h3>
   
   
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sofiapatrocinio&show_icons=truehttps://github-readme-stats.vercel.app/api?username=sofiapatrocinio&show_icons=true&theme=vue-dark&count_private=true" />
+  <img src="https://github-readme-stats-three-mu-85.vercel.app/api?username=sofiapatrocinio&theme=nightowl&show_icons=true" />
 </p>
 <br>
-<p align="center">
-<img src="https://i.imgur.com/eYokR92.jpg" />
- </p>
 
