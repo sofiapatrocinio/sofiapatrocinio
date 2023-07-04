@@ -1,6 +1,10 @@
- <h3 align="center">
-   👩🏻‍💻  Working as a front-end developer at <a href="https://github.com/loopkeybr"> Loopkey </a><br>
-  <h3>
+<p align="center">
+<img src="https://github.com/sofiapatrocinio/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+</p>
+
+<h3 align="center">
+  👩🏻‍💻  Working as a front-end developer at <a href="https://github.com/loopkeybr"> Loopkey </a><br>
+<h3>
   
   
 <p align="center">
