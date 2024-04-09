@@ -1,4 +1,8 @@
 <p align="center">
+![snake animation](https://github.com/sofiapatrocinio/sofiapatrocinio/blob/output/github-contribution-grid-snake2.svg)
+</p>
+
+<p align="center">
 <img src="https://github.com/sofiapatrocinio/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
 </p>
 
