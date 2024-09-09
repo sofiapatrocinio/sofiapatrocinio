@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">
-  👩🏻‍💻  Working as a front-end developer at <a href="https://github.com/loopkeybr"> Loopkey </a><br>
+  👩🏻‍💻  Working as a software engineer at <a href="https://github.com/assaabloy-ppi"> ASSA ABLOY </a><br>
 <h3>
   
   
