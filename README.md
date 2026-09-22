@@ -4,12 +4,10 @@
 
 <h3 align="center">
   👩🏻‍💻 Working as a software engineer at <a href="https://www.assaabloy.com/" target="_blank">ASSA ABLOY</a><br>
-  🤝 Volunteering at <a href="https://filhasdaterra.org/" target="_blank">Instituto Filhas da Terra</a>
-<h3>
-  
-  
+  🤝 Collaborating with <a href="https://filhasdaterra.org/" target="_blank">Instituto Filhas da Terra</a>
+</h3>
+
 <p align="center">
   <img src="https://github-readme-stats-three-mu-85.vercel.app/api?username=sofiapatrocinio&theme=nightowl&show_icons=true" />
 </p>
 <br>
-
